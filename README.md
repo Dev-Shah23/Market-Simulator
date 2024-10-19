@@ -23,7 +23,7 @@ This Flask application fetches historical and intraday stock data from Yahoo Fin
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/stock-chart-api.git
-   cd stock-chart-api
+   cd Market-Simulator
    ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
